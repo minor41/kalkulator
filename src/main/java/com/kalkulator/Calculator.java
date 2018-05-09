@@ -5,7 +5,7 @@ public class Calculator {
     public void addAToB() {
     }
 
-    public void substractAFromB() {
+    public void subtractAFromB() {
     }
 
     public static void main(String args[]){
@@ -14,7 +14,7 @@ public class Calculator {
         calculator.addAToB();
         System.out.println("It works");
 
-        calculator.substractAFromB();
+        calculator.subtractAFromB();
         System.out.println("I am happy");
     }
 }
